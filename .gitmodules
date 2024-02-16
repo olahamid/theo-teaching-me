@@ -1,0 +1,6 @@
+[submodule "contract"]
+    path = contract
+    url = git://github.com/olahamid/contract.git
+[submodule "my-dapp"]
+    path = my-dapp
+    url = git://github.com/olahamid/my-dapp.git
